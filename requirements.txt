@@ -1,0 +1,8 @@
+torch
+torchvision
+pytorch-ignite
+pytorch-fid
+matplotlib
+pillow
+scipy
+kagglehub
